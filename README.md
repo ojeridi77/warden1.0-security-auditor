@@ -10,7 +10,7 @@ Ce logiciel simule un système d’audit de sécurité des fichiers : il analyse
 - Interface graphique stylisée (Tkinter + fond personnalisé)
 - Analyse récursive de tous les fichiers dans un dossier (y compris sous-dossiers)
 - Calcul MD5 pour chaque fichier
-- Comparaison avec une liste de hachages "flagged"
+- Comparaison avec une liste de hachages signalés comme suspects
 - Avertissement visuel si un virus est détecté
 - Option de suppression des fichiers détectés comme infectés
 
