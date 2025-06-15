@@ -1,7 +1,7 @@
 # 🛡️ Warden 1.0 – File Security Auditor
 
 **Warden 1.0** est un projet personnel développé en Python, avec une interface graphique moderne construite à l’aide de **Tkinter**.  
-Ce logiciel simule un système d’audit de sécurité des fichiers : il analyse un dossier donné, calcule l’empreinte MD5 de chaque fichier, et les compare à une base de données contenant des hachages suspects.
+Ce logiciel simule un système d’audit de sécurité des fichiers : il analyse un dossier donné, calcule l’empreinte MD5 de chaque fichier, et les compare à une base de données contenant des hachages de virus connus.
 
 ---
 
